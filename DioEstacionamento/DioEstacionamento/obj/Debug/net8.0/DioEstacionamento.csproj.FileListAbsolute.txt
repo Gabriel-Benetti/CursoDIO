@@ -1,0 +1,14 @@
+C:\Repositorio Meu\DioEstacionamento\DioEstacionamento\bin\Debug\net8.0\DioEstacionamento.exe
+C:\Repositorio Meu\DioEstacionamento\DioEstacionamento\bin\Debug\net8.0\DioEstacionamento.deps.json
+C:\Repositorio Meu\DioEstacionamento\DioEstacionamento\bin\Debug\net8.0\DioEstacionamento.runtimeconfig.json
+C:\Repositorio Meu\DioEstacionamento\DioEstacionamento\bin\Debug\net8.0\DioEstacionamento.dll
+C:\Repositorio Meu\DioEstacionamento\DioEstacionamento\bin\Debug\net8.0\DioEstacionamento.pdb
+C:\Repositorio Meu\DioEstacionamento\DioEstacionamento\obj\Debug\net8.0\DioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio Meu\DioEstacionamento\DioEstacionamento\obj\Debug\net8.0\DioEstacionamento.AssemblyInfoInputs.cache
+C:\Repositorio Meu\DioEstacionamento\DioEstacionamento\obj\Debug\net8.0\DioEstacionamento.AssemblyInfo.cs
+C:\Repositorio Meu\DioEstacionamento\DioEstacionamento\obj\Debug\net8.0\DioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Repositorio Meu\DioEstacionamento\DioEstacionamento\obj\Debug\net8.0\DioEstacionamento.dll
+C:\Repositorio Meu\DioEstacionamento\DioEstacionamento\obj\Debug\net8.0\refint\DioEstacionamento.dll
+C:\Repositorio Meu\DioEstacionamento\DioEstacionamento\obj\Debug\net8.0\DioEstacionamento.pdb
+C:\Repositorio Meu\DioEstacionamento\DioEstacionamento\obj\Debug\net8.0\DioEstacionamento.genruntimeconfig.cache
+C:\Repositorio Meu\DioEstacionamento\DioEstacionamento\obj\Debug\net8.0\ref\DioEstacionamento.dll
