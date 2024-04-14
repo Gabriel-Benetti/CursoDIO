@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Carteira",
+    "Valor": 150.00
+  },
+  {
+    "Id": 2,
+    "Produto": "Monitor",
+    "Valor": 1759.10
+  },
+  {
+    "Id": 3,
+    "Produto": "Farofa",
+    "Valor": 6.98
+  }
+]
